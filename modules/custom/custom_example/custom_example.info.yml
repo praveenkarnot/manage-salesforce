@@ -1,0 +1,6 @@
+name: 'Custom Example'
+type: module
+description: 'Custom example module for Evolving Web'
+core_version_requirement: ^10 || ^11
+package: 'custom'
+namespace: Drupal\custom_example
