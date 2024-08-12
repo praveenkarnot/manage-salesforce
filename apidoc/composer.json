@@ -1,0 +1,6 @@
+{
+    "require": {
+        "zircote/swagger-php": "^3.0.4",
+        "doctrine/annotations": "^1.14"
+    }
+}
